@@ -9,7 +9,7 @@
 
 📍 Berlin, Germany  
 🎓 MSc Software Engineering Student  
-💼 Target Roles: **Werkstudent – IT Support / Software Development**
+💼 Target Roles: **Werkstudent - IT Support / Software Development**
 
 Motivated MSc Software Engineering student with hands-on experience in **software development, application support, debugging, and automation** through academic and industry projects. Strong foundation in **troubleshooting, user support, and backend logic**. Actively seeking a Werkstudent role in Germany to contribute to system stability and team productivity while continuing studies.
 
@@ -58,7 +58,7 @@ Motivated MSc Software Engineering student with hands-on experience in **softwar
 ## 💼 Experience (Aligned With CV)
 
 ### Junior Mobile Application Developer  
-**IT Codes, India | Mar 2024 – Sep 2024**
+**IT Codes, India | Mar 2024 - Sep 2024**
 - Supported development and maintenance of Android and web applications  
 - Identified, analyzed, and resolved application-level bugs  
 - Assisted in testing, debugging, and validating new features  
@@ -68,7 +68,7 @@ Motivated MSc Software Engineering student with hands-on experience in **softwar
 ---
 
 ### Software Developer Intern  
-**Microtel Netlinks (Ltd.), India | Aug 2023 – Jan 2024**
+**Microtel Netlinks (Ltd.), India | Aug 2023 - Jan 2024**
 - Assisted in development, testing, and maintenance of applications  
 - Used debugging tools to diagnose and fix technical issues  
 - Supported Agile development workflows  
@@ -81,12 +81,12 @@ Motivated MSc Software Engineering student with hands-on experience in **softwar
 ### 🔹 AI-Powered Job Search & Shortlisting System  
 **Python | Automation | NLP**
 - Built an automated system to collect and shortlist job postings  
-- Implemented resume–job matching using text similarity and rule-based filtering  
+- Implemented resume-job matching using text similarity and rule-based filtering  
 - Debugged automation pipelines and handled data inconsistencies  
 
 ---
 
-### 🔹 N-Queens Problem – Multi-Algorithm Implementation  
+### 🔹 N-Queens Problem - Multi-Algorithm Implementation  
 **Python | Algorithms | Debugging**
 - Implemented and tested multiple algorithmic approaches  
 - Compared performance and correctness  
